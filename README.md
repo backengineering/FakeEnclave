@@ -1,5 +1,5 @@
 # FakeEnclave
-A poc that abuses Enclave
+A POC that abuses Enclave
 
 Tested in Win10 1809
 
