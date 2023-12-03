@@ -10,5 +10,5 @@ Tested in Win10 1809
 - There may be nothing to do
 
 ## Compile
-- Visual Studio 2022 & WDK10
+- Visual Studio 2022 & WDK11
 - llvm-msvc [[link]](https://github.com/backengineering/llvm-msvc/releases)
